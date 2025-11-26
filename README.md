@@ -121,3 +121,9 @@ npm install	Instala dependencias
 npm run dev	Ejecuta la API en modo desarrollo
 npm start	Ejecuta la API en producción
 npm run	Lista los scripts disponibles
+
+Autor
+
+**Cristian — Desarrollador Full Stack**  
+- GitHub: [@codp89](https://github.com/codp89)
+- Stack: Node.js, Laravel, Django, React, Angular, MySQL, SQL Server, MongoDB.
