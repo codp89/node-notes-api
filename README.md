@@ -40,7 +40,7 @@ Nodemon (desarrollo)
 
 Instalación y configuración
 1 -Clonar el repositorio
-git clone https://github.com/tu-usuario/node-notes-api.git
+git clone git clone https://github.com/codp89/node-notes-api.git
 cd node-notes-api
 
 2 -Instalar dependencias
